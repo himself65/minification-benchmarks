@@ -11,6 +11,8 @@ This repo is routinely maintained to compare the quality and speed across the la
 - [terser](https://github.com/terser/terser)
 - [uglify-js](https://github.com/mishoo/UglifyJS)
 
+This is fork of the [original project](https://github.com/privatenumber/minification-benchmarks) which shows the benchmark results with more recent versions of the minifiers.
+
 _Benchmarks last updated on <!-- lastUpdated:start -->Apr 23, 2023<!-- lastUpdated:end -->._
 
 <sub>Support this project by ⭐️ starring and sharing it. [Follow me](https://github.com/privatenumber) to see what other cool projects I'm working on! ❤️</sub>
